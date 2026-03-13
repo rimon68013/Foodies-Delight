@@ -1,1 +1,1 @@
-[# Foodies-Delight]
+# Foodies-Delight
